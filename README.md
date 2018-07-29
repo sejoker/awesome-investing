@@ -5,7 +5,8 @@
 ## Contents
 
 * [Books](#books)
-* [Websites / Blogs](#websitesblogs)
+* [Websites](#websites)
+* [Blogs](#blogs)
 * [Courses](#courses)
 * [Sub Reddits](#sub-reddits)
 * [Tools](#tools)
@@ -72,46 +73,41 @@
 * [What works on Wall Street](http://whatworksonwallstreet.com/) - James O’Shaughnessy
 * [Poor Charlie's Almanack](https://www.goodreads.com/book/show/944652.Poor_Charlie_s_Almanack) - Charles T. Munger
 
-### Websites/Blogs
+### Websites
 
+* [Seeking Alpha](https://seekingalpha.com/)
 * [Pulse](http://pulse.zerodha.com/)
-* [ContrarianValue Edge](https://contrarianvalueedge.wordpress.com/)
-* [Safal Niveshak](http://www.safalniveshak.com/)
-* [FreeFinCal](https://freefincal.com/)
-* [ValueResearchOnline](https://www.valueresearchonline.com/)
-* [Farnam Street Blog](https://www.farnamstreetblog.com/)
+* [Capital Mind](https://capitalmind.in/)
+* [Bogleheads Investing Start-up kit](https://www.bogleheads.org/wiki/Bogleheads%C2%AE_investing_start-up_kit)
+* [The Motley Fool](https://www.fool.com/)
+* [AIFW Facebook Group](https://www.facebook.com/groups/asanideasforwealth)
+* [Masters Invest](http://mastersinvest.com/)
+
+### Blogs
+
 * [Of Dollars and Data](https://ofdollarsanddata.com/)
 * [Get Rich Slowly](http://www.getrichslowly.org/blog/)
-* [Capital Mind](https://capitalmind.in/)
+* [ContrarianValue Edge](https://contrarianvalueedge.wordpress.com/)
+* [Farnam Street Blog](https://fs.blog/)
+* [Safal Niveshak](https://www.safalniveshak.com/blog/)
+* [Augmented Trader](https://augmentedtrader.com/)
+* [Street Wise Professor](https://streetwiseprofessor.com/)
+* [Brooklyn Investor](http://brooklyninvestor.blogspot.in/)
+* [Howard Marks Memo](https://www.oaktreecapital.com/insights/howard-marks-memos)
 * [jlcollinsnh](http://jlcollinsnh.com/)
 * [Long Term Value Blog](https://longtermvalue.wordpress.com/)
-* [Musings on Markets](http://aswathdamodaran.blogspot.in/)
-* [The White Coat Investor](https://www.whitecoatinvestor.com/)
-* [Mad Fientist](http://www.madfientist.com/)
 * [Gannon Investing](http://www.gannononinvesting.com/)
 * [ShadowStock](http://shadowstock.blogspot.in/)
-* [Odd Ball Stocks](http://www.oddballstocks.com//)
-* [Mr. Money Mustache](http://www.mrmoneymustache.com/)
-* [Glenn Chan's Random Notes on Investing](https://glennchan.wordpress.com/)
 * [Fundoo Professor](https://fundooprofessor.wordpress.com/)
-* [The Finance Buff](https://thefinancebuff.com/)
-* [Bogleheads Investing Start-up kit](https://www.bogleheads.org/wiki/Bogleheads%C2%AE_investing_start-up_kit)
-* [Dr. Vijay Malik.com](http://www.drvijaymalik.com/)
-* [The Motley Fool](https://www.fool.com/)
 * [BlackRock Blog](https://www.blackrockblog.com/)
 * [mfcritic](http://mfcritic.blogspot.in/)
 * [A Wealth of Common Sense](http://awealthofcommonsense.com/)
 * [Philosophical Economics](http://www.philosophicaleconomics.com/)
-* [AIFW Facebook Group](https://www.facebook.com/groups/asanideasforwealth)
 * [Eighty Twenty Investor](https://eightytwentyinvestor.com/)
-* [Howard Marks Memo](https://www.oaktreecapital.com/insights/howard-marks-memos)
-* [Jago Investor](https://www.jagoinvestor.com/)
-* [Saving Habit](https://savinghabit.com)
-* [Value Stock Guide](https://valuestockguide.com/)
-* [Masters Invest](http://mastersinvest.com/)
-* [Brooklyn Investor](http://brooklyninvestor.blogspot.in/)
-* [Street Wise Professor](https://streetwiseprofessor.com/)
-* [Augmented Trader](https://augmentedtrader.com/)
+* [Odd Ball Stocks](http://www.oddballstocks.com//)
+* [Musings on Markets](http://aswathdamodaran.blogspot.in/)
+* [Glenn Chan's Random Notes on Investing](https://glennchan.wordpress.com/)
+* [The Finance Buff](https://thefinancebuff.com/)
 
 ### Courses
 
