@@ -7,6 +7,8 @@
 * [Books](#books)
 * [Websites](#websites)
 * [Blogs](#blogs)
+* [Research Papers](#research-papers)
+* [Articles](#articles)
 * [Courses](#courses)
 * [Sub Reddits](#sub-reddits)
 * [Tools](#tools)
@@ -108,6 +110,14 @@
 * [Musings on Markets](http://aswathdamodaran.blogspot.in/)
 * [Glenn Chan's Random Notes on Investing](https://glennchan.wordpress.com/)
 * [The Finance Buff](https://thefinancebuff.com/)
+
+### Research Papers
+
+* [Contrarian Investment, Extrapolation and Risk](http://lsvasset.com/pdf/research-papers/Contrarian-Investment-Extrapolation-and-Risk.pdf) - Joseph Lakonishok, Andrei Shleifer, Robert W. Vishny
+
+### Articles
+
+* [The Gospel According to Michael Porter](https://www.institutionalinvestor.com/article/b15jm11km848qm/the-gospel-according-to-michael-porter) - Daniel Rasmussen
 
 ### Courses
 
