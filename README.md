@@ -20,7 +20,7 @@
 * [Damodaran on Valuation: Security Analysis for Investment and Corporate Finance](https://www.goodreads.com/book/show/1422813.Damodaran_on_Valuation) - Aswath Damodaran
 * [The Outsiders](https://www.goodreads.com/book/show/13586932-the-outsiders) - William N. Thorndike Jr.
 * [Fooling Some of the People All of the Time](https://www.goodreads.com/book/show/7663760-fooling-some-of-the-people-all-of-the-time) - David Einhorn
-* [The Most Important Thing Illuminated](https://www.goodreads.com/book/show/10454418-the-most-important-thing) - Howard Marks
+* [The Most Important Thing](https://www.goodreads.com/book/show/10454418-the-most-important-thing) - Howard Marks
 * [Berkshire Hathaway Letters to Shareholders](https://www.goodreads.com/book/show/17972688-berkshire-hathaway-letters-to-shareholders) - Warren Edward Buffett
 * [The Thoughtful Investor](https://www.goodreads.com/book/show/21949163-the-thoughtful-investor) - Basant Maheshwari
 * [Common Stocks and Uncommon Profits](https://www.goodreads.com/book/show/25574.Common_Stocks_and_Uncommon_Profits_and_Other_Writings) - Philip Arthur Fisher
@@ -40,6 +40,7 @@
 * [Market Wizards](https://www.goodreads.com/book/show/966769.Market_Wizards) - Jack Schwager
 * [Trade Your Way to Financial Freedom](https://www.goodreads.com/book/show/161791.Trade_Your_Way_to_Financial_Freedom) - Van K Tharp
 * [A Random Walk Down Wall Street](https://www.goodreads.com/book/show/900892.A_Random_Walk_Down_Wall_Street) - Burton G. Malkiel
+* [You Can Be a Stock Market Genius](https://www.goodreads.com/book/show/116184.You_Can_Be_a_Stock_Market_Genius) - Joel Greenblatt
 * [The Little Book That Beats the Market](https://www.goodreads.com/book/show/75889.The_Little_Book_That_Beats_the_Market) - Joel Greenblatt
 * [The Alchemy of Finance](https://www.goodreads.com/book/show/369708.The_Alchemy_of_Finance) - George Soros
 * [Fooled by Randomness](https://www.goodreads.com/book/show/38315.Fooled_by_Randomness) - Nassim Nicholas Taleb
@@ -68,6 +69,8 @@
 * [The Battle for Investment Survival](https://www.goodreads.com/book/show/350675.The_Battle_for_Investment_Survival_) - Gerald M. Loeb
 * [Your Money: The Missing Manual](https://www.goodreads.com/book/show/7268380-your-money) - J.D. Roth
 * [Active Portfolio Management](https://www.goodreads.com/book/show/537529.Active_Portfolio_Management) - Richard C. Grinold, Ronald N. Kahn
+* [What works on Wall Street](http://whatworksonwallstreet.com/) - James O’Shaughnessy
+* [Poor Charlie's Almanack](https://www.goodreads.com/book/show/944652.Poor_Charlie_s_Almanack) - Charles T. Munger
 
 ### Websites/Blogs
 
