@@ -167,6 +167,8 @@
 
 ### Tools
 
+* [Stockopedia](https://www.stockopedia.com/)
+* [Simply Wall St](simplywall.st)
 * [Kite](https://kite.zerodha.com/)
 * [Kite API](https://kite.trade/docs/connect/v1/)
 * [Yahoo Finance API](https://developer.yahoo.com/finance/)
