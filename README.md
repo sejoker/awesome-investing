@@ -78,6 +78,7 @@
 ### Websites
 
 * [Seeking Alpha](https://seekingalpha.com/)
+* [Value Investors Club](https://www.valueinvestorsclub.com/)
 * [Pulse](http://pulse.zerodha.com/)
 * [Capital Mind](https://capitalmind.in/)
 * [Bogleheads Investing Start-up kit](https://www.bogleheads.org/wiki/Bogleheads%C2%AE_investing_start-up_kit)
